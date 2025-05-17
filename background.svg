@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Minimalistyczny obraz klucza hydraulicznego i młotka z białym tłem i zwiększoną przezroczystością -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Białe tło -->
+  <rect x="0" y="0" width="200" height="200" fill="#ffffff"/>
+  
+  <!-- Grupa z ustawioną przezroczystością -->
+  <g opacity="0.3">
+    <!-- Klucz hydrauliczny -->
+    <circle cx="50" cy="50" r="10" stroke="#1a2b4c" stroke-width="2" fill="none"/>
+    <line x1="50" y1="60" x2="70" y2="80" stroke="#1a2b4c" stroke-width="2" stroke-linecap="round"/>
+    <line x1="42" y1="50" x2="38" y2="45" stroke="#1a2b4c" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Młotek -->
+    <rect x="130" y="40" width="30" height="10" fill="none" stroke="#1a2b4c" stroke-width="2"/>
+    <line x1="145" y1="50" x2="145" y2="90" stroke="#1a2b4c" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
